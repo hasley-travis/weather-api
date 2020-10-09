@@ -1,0 +1,15 @@
+module.exports = {
+  AVE : 'Avenue',
+  BLVD : 'Boulevard',
+  DR : 'Drive',
+  FWY: 'Freeway',
+  HWY: 'Highway',
+  LN: 'Lane',
+  PKWY: 'Parkway',
+  PL: 'Place',
+  PT: 'Point',
+  RD: 'Road',
+  ST: 'Street',
+  TER: 'Terrace',
+  TPKE: 'Turnpike',
+};
