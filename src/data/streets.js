@@ -1,7 +1,7 @@
 module.exports = {
-  AVE : 'Avenue',
-  BLVD : 'Boulevard',
-  DR : 'Drive',
+  AVE: 'Avenue',
+  BLVD: 'Boulevard',
+  DR: 'Drive',
   FWY: 'Freeway',
   HWY: 'Highway',
   LN: 'Lane',
